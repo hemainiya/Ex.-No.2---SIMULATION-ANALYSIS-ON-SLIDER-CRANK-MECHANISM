@@ -44,10 +44,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+<img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/f306c9ac-9f6a-450b-8d87-bbab94712452" />
+<img width="1919" height="412" alt="image" src="https://github.com/user-attachments/assets/0627a0d2-1475-4490-a78f-ff8796a707b1" />
 
 
-### Name:
-### Register Number: 
+### Name:HEMA SREE S
+### Register Number: 212224040112
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
